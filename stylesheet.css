@@ -11,7 +11,7 @@
 .slack:hover {transform: scale(1.1);}
 
 hr {
-  color: #fafafa;
+  border: solid 1px #fafafa;
 }
 
 .gya.header {
