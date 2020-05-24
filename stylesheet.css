@@ -107,6 +107,6 @@ background-image: url("https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/
   display: inline-block;
   width: 100%
   margin: 1rem;
-  padding: 1rem;
+  padding: 1rem 1rem 2rem 1rem;
 
 }
