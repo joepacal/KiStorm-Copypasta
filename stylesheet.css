@@ -24,8 +24,8 @@ background-image: url("https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/
   background-repeat: no-repeat;
   background-size: initial;
 
-  padding: 0rem 2rem 4rem 3rem;
-  margin: 1rem 2rem 0 2rem;
+  padding: 0rem 2rem 2rem 3rem;
+  margin: 1rem 1rem 3rem 1rem;
 
 }
 
@@ -106,7 +106,7 @@ background-image: url("https://uploads-ssl.webflow.com/5c34eab9a3cd45767d571354/
 
   display: inline-block;
   width: 100%
-  margin: 1rem;
-  padding: 1rem 1rem 2rem 1rem;
+  margin: 1rem 1rem 2rem 1rem;
+  padding: 1rem;
 
 }
