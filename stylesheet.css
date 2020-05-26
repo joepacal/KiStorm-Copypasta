@@ -4,7 +4,7 @@
 .gya .title{padding-top:0em;margin-top:0em;}
 .gya .tasks {width: 85%;margin:auto;}
 .gya .task {padding-left: 1%;padding-right: 1%;padding-bottom:3em;}
-.gya .task:hover {transform: scale(1.1);}
+.gya img:hover {transform: scale(1.1);}
 .gya .col-xs-12 img{max-width: 30%;padding-bottom:10px;}
 .gya .welcome-header {max-width: 5em; padding-top: 0.5em;}
 
